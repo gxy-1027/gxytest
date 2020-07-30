@@ -6,6 +6,8 @@
 //  Copyright © 2016年 UMeng. All rights reserved.
 //
 
+//测试修改本地仓库文件，提交到远程仓库
+
 #import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
 #import <UMSocialCore/UMSocialCore.h>
